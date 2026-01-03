@@ -12,7 +12,7 @@ type TypeItemsHeader = {
 }
 
 const ItemsHeader: TypeItemsHeader[] = [
-  { name: "Sobre Mim", href: "#about" },
+  { name: "Sobre EU JOOJ", href: "#about" },
   { name: "Portfolio", href: "#portfolio" },
   { name: "Habilidades", href: "#skills" },
   { name: "Contato", href: "#contact" },
