@@ -123,7 +123,7 @@ const HeroSection = () => {
         >
           Olá, sou{" "}
           <span className="text-transparent bg-clip-text bg-gradient-to-r from-teal-500 to-purple-600 relative inline-block">
-            João Cruz
+            Deploy automático funcionando!
             <div
               className="absolute inset-0 bg-gradient-to-r from-teal-500/20 to-purple-600/20 blur-xl -z-10"
               style={{
